@@ -60,6 +60,8 @@
 <!-- | <a href="https://github.com/sakirsyarian/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakirsyarian&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sakirsyarian" /></a> | <a href="https://github.com/sakirsyarian/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=sakirsyarian&repo=laravel-blog&layout=compact&theme=buefy&hide_border=true" /></a> | 
 | ------------- | ------------- | -->
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakirsyarian&theme=minimal&hide_border=true)
+
 #### Top Repositories
 
 <a href="https://github.com/sakirsyarian/github-readme-stats">
