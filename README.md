@@ -68,7 +68,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakirsyarian&repo=javascript-algorithms&theme=buefy" />
 </a>
 <a href="https://github.com/sakirsyarian/awesome">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=awesome&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakirsyarian&repo=awesome&theme=buefy" />
 </a>
 
 <!---
