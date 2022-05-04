@@ -64,8 +64,8 @@
 
 #### Top Repositories
 
-<a href="https://github.com/sakirsyarian/javascript-algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakirsyarian&repo=javascript-algorithms&theme=buefy" />
+<a href="https://github.com/sakirsyarian/Become-A-Full-Stack-Web-Developer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakirsyarian&repo=Become-A-Full-Stack-Web-Developer&theme=buefy" />
 </a>
 <a href="https://github.com/sakirsyarian/awesome">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakirsyarian&repo=awesome&theme=buefy" />
