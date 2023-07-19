@@ -60,15 +60,13 @@
 <!-- | <a href="https://github.com/sakirsyarian/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakirsyarian&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sakirsyarian" /></a> | <a href="https://github.com/sakirsyarian/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=sakirsyarian&repo=laravel-blog&layout=compact&theme=buefy&hide_border=true" /></a> | 
 | ------------- | ------------- | -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakirsyarian&theme=minimal&hide_border=true)
-
 #### Top Repositories
 
-<a href="https://github.com/sakirsyarian/Become-A-Full-Stack-Web-Developer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakirsyarian&repo=Become-A-Full-Stack-Web-Developer&theme=buefy" />
+<a href="https://github.com/sakirsyarian/clothing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakirsyarian&repo=clothing&theme=buefy" />
 </a>
-<a href="https://github.com/sakirsyarian/awesome">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakirsyarian&repo=awesome&theme=buefy" />
+<a href="https://github.com/sakirsyarian/tolis-fresh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakirsyarian&repo=tolis-fresh&theme=buefy" />
 </a>
 
 <!---
