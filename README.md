@@ -2,12 +2,12 @@
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p> -->
 <br />
 
-<p>A passionate frontend developer from Indonesia 🇮🇩</p>
+<p>A passionate fullstack developer from Indonesia 🇮🇩</p>
 
 ### About me:
 
-- 💼 Frontend engineer at [websiteori](http://websiteori.com/)
-- 🌱 I’m currently learning react
+- 💼 Fullstack Developer
+- 🌱 I’m currently learning TypeScript
 - ❤️ I love building fun experiments on type-level
 - 🤝 I’m looking for help with public speaking
 - 📫 How to reach me [telegram](https://t.me/elgoritme)
